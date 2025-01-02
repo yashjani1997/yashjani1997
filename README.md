@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yash Jani
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning AI-ML Data Science
-- 💞️ I’m looking to collaborate on Python
+- 💞️ I’m looking to collaborate With AI Expert via Interships
 
 
 <!---
